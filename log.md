@@ -4,7 +4,7 @@
 
 **Today's Progress:** More testing, and cleaning up the code (writing comments)
 
-**Thoughts:** I guess it's a good sign if the computer is beating me the majority of the time? Like, since I wrote the program, is it a case of me being smarter than myself? I wasn't expecting the algorithm to be that good yet. Although since it's a card game, maybe it depends on luck more than anything.
+**Thoughts:** I guess it's a good sign if the computer is beating me the majority of the time? I wasn't expecting the algorithm to be that good yet. Although since it's a card game, maybe it depends on luck more than anything. I wonder if I should try to improve the computer's decisions like I was planning to, since surely it isn't that fun to play a computer that relentlessly pounds the user into the dust each time. It's supposed to be for the player's benefit, so they should be able to win some/most of the time due to their own skill.
 
 
 ## Day 42: 4 January, 2019
@@ -85,9 +85,11 @@
 
 **Today's Progress:** Made a ball bounce around the screen using p5.js, taking inspiration from a tutorial from The Coding Train on YouTube.
 
-**Thoughts:** It reminds me of the old DVD screensavers. It's pretty nice to look at.
+**Thoughts:** It reminds me of the old DVD screensavers. It's pretty relaxing to look at.
 
-**Link:** [Coding Train tutorial](https://www.youtube.com/watch?v=LO3Awjn_gyU)
+**Links:** 
+1. [Bouncing Ball](https://codepen.io/rogerthat35/pen/pGdLyd)
+2. [Coding Train tutorial](https://www.youtube.com/watch?v=LO3Awjn_gyU)
 
 
 ## Day 53: 15 January, 2019
