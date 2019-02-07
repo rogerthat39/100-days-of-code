@@ -611,6 +611,8 @@
 
 ## Day 76: 7 February, 2019
 
-**Today's Progress:**
+**Today's Progress:** Finished regular expressions FreeCodeCamp module.
 
 **Thoughts:** Finally got around to learning how GitHub works and forking the 100DaysOfCode repo to write about my journey publically. I wasn't originally going to do this, since I have my own journals I write in every day, but Git is a valuable skill to learn, and I was just putting it off. So if anyone noticed the start date of the 100DaysOfCode was before the start date of this account, that's why. I should also move some of the projects I worked on over here.
+
+**Link:** [FreeCodeCamp RegEx module](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions)
