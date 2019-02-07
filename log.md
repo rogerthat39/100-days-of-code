@@ -1,5 +1,304 @@
 # 100 Days Of Code - Log
 
+## Day 1: 25 November, 2018
+
+**Today's Progress:** Finished the first two Python modules on the SoloLearn app. The concepts aren't new, but it's good to get a refresher on the syntax and how python works.
+
+**Thoughts:** This is actually the second day of my holidays. I worked out that I had just under 100 days until I start back at uni, so what better way to make sure my programming skills stay sharp than to set myself a personal challenge to code 1h per day until then? 
+
+
+## Day 2: 26 November, 2018
+
+**Today's Progress:** Finished the next two SoloLearn modules - methods and File I/O.
+
+**Thoughts:** Not too hard to understand, since I've done file I/O in C#. It's funny thinking back to when I first started Python in high school - I had no idea that file I/O was possible. Absolutely blew my mind to realize you could save data and use it after the program has closed.
+
+
+## Day 3: 27 November, 2018
+
+**Today's Progress:** Completed the next two SoloLearn modules - 'more types' and 'functional programming'.
+
+**Thoughts:** Gonna need to practise this lot in order for it to stick since this is definitely not revision. Not a lot of time today since I was out and about.
+
+
+## Day 4: 28 November, 2018
+
+**Today's Progress:** Experimenting with file I/O and the itertools library. Also converted the practical exam from C# into python (aside from the GUI) which was a fairly simple I/O program that held 10 lines of data and a single button.
+
+**Thoughts:** Took me 15 minutes to write the practical exam at the time, and probably 20 minutes to write the python version. It definitely helped that that .split(',') was in both languages.
+
+
+## Day 5: 29 November, 2018
+
+**Today's Progress:** Converted Lab 10 into Python - which involved searching, sorting, and classes.
+
+**Thoughts:** I think that python works like JavaScript where if you cay object2 = object1, it doesn't create a copy, just another name that points to the same location in memory. So in actuality, there's one object that both names are referencing.
+
+
+## Day 6: 30 November, 2018
+
+**Today's Progress:** Completed the OOP and regex modules in SoloLearn.
+
+**Thoughts:** Some of today's material went a bit fast for me, so I'm going to have to seek out different explanations/exercises to get a better understanding of the concepts.
+
+
+## Day 7: 1 December, 2018
+
+**Today's Progress:** Read about classes/objects in Python, and completed some exercises, since I realized that I don't remember much of how to do them.
+
+**Link:** [OOP in Python](https://realpython.com/python3-object-oriented-programming/)
+
+
+## Day 8: 2 December, 2018
+
+**Today's Progress:** Found some Python regular expression exercises to do, and got stuck on #20. 
+
+**Thoughts:** For some reason it's not always working as I'd expect. Should the regex always starts the search from the beginning of the string, even when ^ is not specified? Do I need to use boundaries instead?
+
+**Link:** [Python Regex exercises](https://www.w3resource.com/python-exercises/re/)
+
+
+## Day 9: 3 December, 2018
+
+**Today's Progress:** Fixed the issue from yesterday, then continued with the rest of the regex exercises. Also completed the final SoloLearn module and test, gaining the certificate.
+
+**Thoughts:** It's strange getting a certificate for programming! But I'm pleased with how I went. I still have a lot to learn about Python; this is only the first step.
+
+**Link:** [Certificate](https://www.sololearn.com/Certificate/1073-11756375/pdf/)
+
+
+## Day 10: 4 December, 2018
+
+**Today's Progress:** Converted a C# assessment from school into Python. It's a math program that comes up with an equation and takes input for the answer, and lets you know if you got the answer right or not.
+
+
+## Day 11: 5 December, 2018
+
+**Today's Progress:** Started converting yesterday's school project into a GUI (using tkinter). The original C# application did have pictures and labels, so I'll try to get it to look as close to the original as possible.
+
+**Thoughts:** At the moment, the output prints to the console, and the images aren't up yet. I forgot how to update labels and images like that, so I'll have to find my notes from way back when before tomorrow.
+
+
+## Day 12: 6 December, 2018
+
+**Today's Progress:** Got the images to work, message box to pop up, and changed the design to look more like it did in C#.
+
+**Thoughts:** Project 1 is now completed! It was certainly easier to do in C#, but there's something about coming back to your first programming language. It's good to keep up the practise, in any case.
+
+
+## Day 13: 7 December, 2018
+
+**Today's Progress:** Started the GUI for the taxes program (project 2 of the school assignment).
+
+**Thoughts:** It was difficult to do even an hour after a long day, but I managed it and it's a good feeling.
+
+
+## Day 14: 8 December, 2018
+
+**Today's Progress:** Got the first screen functional and working for the taxes program. 
+
+**Thoughts:** The code looks super long at this point, but it's mostly just creating and displaying widgets.
+
+
+## Day 15: 9 December, 2018
+
+**Today's Progress:** Figured out how to switch between screens/tabs, put the new widgets in but no functionality yet. 
+
+**Thoughts:** The code looks super long at this point, but it's mostly just creating and displaying widgets.
+
+
+## Day 16: 10 December, 2018
+
+**Today's Progress:** Finished functionality for the second tab of the taxes program.
+
+**Thoughts:** Trying to make it look exactly the same as in C#, where you can drag and drop objects and they don't have to be in a grid, is borderline impossible. I think I managed to get it to look alright though.
+
+
+## Day 17: 11 December, 2018
+
+**Today's Progress:** Found a free course on Codecademy for Python - albiet an outdated form, but most of it should still be relevant.
+
+**Thoughts:** It's strange not using brackets for print statements though.
+
+**Links:** [CodeAcademy Python 2](https://www.codecademy.com/learn/learn-python)
+
+
+## Day 18: 12 December, 2018
+
+**Today's Progress:** Continued with the Python 2 lessons, now up to 47%.
+
+**Links:** [CodeAcademy Python 2](https://www.codecademy.com/learn/learn-python)
+
+
+## Day 19: 13 December, 2018
+
+**Today's Progress:** Up to 78% in Python 2 course. Made a calendar program which isn't nearly as cool as it sounds, but it filled in the day.
+
+**Thoughts:** Just discovered the quizzes and side projects. That's probably why the % jumped up so much compared to yesterday.
+
+**Links:** [CodeAcademy Python 2](https://www.codecademy.com/learn/learn-python)
+
+
+## Day 20: 13 December, 2018
+
+**Today's Progress:** Did more projects in Python 2, but didn't quite finish. Up to 94% completion.
+
+**Thoughts:** A car crashed into the power box down the road and caused a power cut. I worked until I ran out of battery on my laptop.
+
+**Links:** [CodeAcademy Python 2](https://www.codecademy.com/learn/learn-python)
+
+
+## Day 21: 14 December, 2018
+
+**Today's Progress:** Finished the Python 2 course, and 43% of the way through the Python 3 course.
+
+**Thoughts:** Just discovered that I have a pro membership going, so I can do pro courses?? Not sure how, since I didn't pay for one. I guess this is a free trial? Either way, gonna try to make the most of this.
+
+**Links:** [CodeAcademy Python 3](https://www.codecademy.com/learn/learn-python-3)
+
+
+## Day 22: 15 December, 2018
+
+**Today's Progress:** Finished the Python 3 course.
+
+**Thoughts:** A lot of this was revision from things done previously, but the quizzes were worthwhile and there was a few new things sprinkled in there. Only two days left of the pro trial, going to try to get as many pro courses under my belt as possible.
+
+**Links:** [CodeAcademy Python 3](https://www.codecademy.com/learn/learn-python-3)
+
+
+## Day 23: 16 December, 2018
+
+**Today's Progress:** Finished two courses, Python Recursion and Natural Language Processing
+
+**Thoughts:** Some parts of both courses went a little over my head, but it was interesting to see what people can really do with Python and things like the bag-of-words model.
+
+**Links:** 
+1. [CodeAcademy NLP](https://www.codecademy.com/learn/natural-language-processing)
+2. [CodeAcademy Python Recursion](https://www.codecademy.com/learn/learn-recursion-python)
+
+
+## Day 24: 17 December, 2018
+
+**Today's Progress:** Started the Pandas codecademy course
+
+**Thoughts:** My free trial runs out today, so I probably won't be able to finish the course.
+
+**Link:** https://www.codecademy.com/learn/data-processing-pandas
+
+
+## Day 25: 18 December, 2018
+
+**Today's Progress:** Did two CoderByte challenges.
+
+**Links:**
+1. https://www.coderbyte.com/editor/guest:Longest%20Word
+2. https://www.coderbyte.com/language/Letter%20Changes
+
+
+## Day 26: 19 December, 2018
+
+**Today's Progress:** Did three more challenges from the website CoderByte.
+
+**Links:**
+1. https://www.coderbyte.com/editor/guest:Simple%20Symbols
+2. https://www.coderbyte.com/language/Letter%20Capitalize
+3. https://www.coderbyte.com/language/Simple%20Adding
+
+
+## Day 27: 20 December, 2018
+
+**Today's Progress:** Planned and started a skip-bo program in Python.
+
+**Thoughts:** Skip-Bo is a card game for 2-4 players that I used to play as a kid. We used to play the "quick" version which means each player got 10 stock cards and not 20, which isn't technically how the game is played, but it was fun for us, so that's how I'm going to make my program. The rules and terms are found [here](https://howdoyouplayit.com/play-skip-bo-rules-skip-bo-card/) (although I called my draw pile a pickUpPile)
+
+
+## Day 28: 21 December, 2018
+
+**Today's Progress:** Fixed the drawCards function, which for some reason wouldn't let me put an empty list as the default value for a variable, so some calls of that function will need an empty list as a parameter.
+
+
+## Day 29: 22 December, 2018
+
+**Today's Progress:** Completed functionality for ending the player's turn and putting out a card from the hand to the discard pile
+
+**Thoughts:** It's quite easy to get stuck in an unescapable loop if you hit the wrong key and you don't have any cards to use for that, (like saying you're going to put out a card but you have no cards that can go on any discard piles) so there needs to be some escape key so you can go back to the main decision. I chose X, as it's unlikely to be used in the future for anything.
+
+
+## Day 30: 23 December, 2018
+
+**Today's Progress:** Completed functions for putting out a card to the building pile from the hand and from the discard pile.
+
+**Thoughts:** Almost done with the Player class - just need to be able to put cards back into the pickUpPile once the building pile reaches 12 and is reset.
+
+
+## Day 31: 24 December, 2018
+
+**Today's Progress:** Fully functional now, time for gameplay testing against myself. Also added a function that gets the top card from a building pile, to make things easier with putting out cards.
+
+**Thoughts:** It's amazing how many little tweaks are needed even after you thought you tested the code. Goes to show that having a plan for testing is super important. Or even just playing through a game to the end.
+
+
+## Day 32: 25 December, 2018
+
+**Today's Progress:** Did some more gameplay testing and fixed a bug with the win condition.
+
+**Thoughts:** The first time the code has ended (that hasn't been an error - it was a win screen!) happened to be on Christmas Day, go figure. Feels like a Christmas present from the coding gods
+
+
+## Day 33: 26 December, 2018
+
+**Today's Progress:** Started the computer player class which will have decisions rather than input from the player.
+
+**Thoughts:** The decisions I'm putting in are what I would do in various situations. For example, check whether the stock card can be put out first.
+
+
+## Day 34: 27 December, 2018
+
+**Today's Progress:** Continued work on the computer player functions and priorities.
+
+**Thoughts:** Putting out cards from the hand and the discard pile seem to have a lot of repeating code. Once this class is working, I should go back and get rid of these redundant parts by creating functions that are written once and can be called from different places in the code.
+
+
+## Day 35: 28 December, 2018
+
+**Today's Progress:** Started the endTurn function, which runs when the computer player can't put out any more cards and has to end their turn by putting a card from their hand to the discard pile. It didn't work right at first, but seems to be all right now.
+
+**Thoughts:** The first part of this decision is: if any discard piles contain only one number (there may be more than one card in that pile), check the hand for that number. If the number is in the hand, that is the card that should be discarded.
+
+
+## Day 36: 29 December, 2018
+
+**Today's Progress:** Completed the endTurn function with a few decisions that impact which card to choose and what discard pile it ends up on.
+
+**Thoughts:** The second decision is if there is an empty pile. If there is, and the hand contains more than one card the same, the player should put one of those out into the empty pile. Otherwise, a random card should be put out onto the empty pile. The third decision is the default - if there is no empty pile, is to put out a random card to a random pile.
+
+
+## Day 37: 30 December, 2018
+
+**Today's Progress:** Fixing small bugs in how the output displays (with spaces in between certain lines), and started planning for an algorithm that will check if the stock card can be put out with help from cards in the computer player's hand and discard pile.
+
+
+## Day 38: 31 December, 2018
+
+**Today's Progress:** Short break from the skip-bo program - did a couple of Reddit dailyprogrammer challenges ([checksum](https://www.reddit.com/r/dailyprogrammer/comments/a72sdj/20181217_challenge_370_easy_upc_check_digits/) and [hex colors](https://www.reddit.com/r/dailyprogrammer/comments/a0lhxx/20181126_challenge_369_easy_hex_colors/)).
+
+**Thoughts:** The bonus part of the hex colors challenge, the color blending, was quite interesting in terms of color theory. It takes two hex colors and finds the middle value of those (ie. mixes those two colors together)
+
+
+## Day 39: 1 January, 2019
+
+**Today's Progress:** Started a function called canStockCardBeReached, that will decide if the computer can put out the stock card, using the cards in their hand and discard pile.
+
+**Thoughts:** It's important for the player to put out the stock card first if they can, because then they can decide what to do next based on the next card to be turned up. If the computer is allowed to randomly put out any card they can instead of going straight for the stock card, they might put down a card that is the same as the next card in the stock pile (that they can't see), which would make them unable to put out that card when the time comes. It sounds complicated and that's probably because I haven't explained it very well, but it's something a human player would do without really thinking about it.
+
+
+## Day 40: 2 January, 2019
+
+**Today's Progress:** canStockCardBeReached appears to be working for the most part, but it's buggy and needs more testing.
+
+**Thoughts:** Already I can see some problems I don't know how to overcome. How do you explain in code that in a hand with three 1's and a W on the stock pile, that putting out a 1 then a W is better than making the W a 1? Maybe I need another function that "maximizes" the potential number of cards that can be put out (based on hand, discard piles, building piles) so that no matter what the new stock card is, it is likely to be able to be put out based on those actions. But I have no idea how to go about doing this.
+
+
 ## Day 41: 3 January, 2019
 
 **Today's Progress:** More testing, and cleaning up the code (writing comments)
@@ -130,7 +429,7 @@
 
 **Links:** 
 1. [Advent of Code Day 5](https://adventofcode.com/2018/day/5)
-2. [Reddit Solutions}(https://www.reddit.com/r/adventofcode/comments/a3912m/2018_day_5_solutions/)
+2. [Reddit Solutions](https://www.reddit.com/r/adventofcode/comments/a3912m/2018_day_5_solutions/)
 
 
 ## Day 57: 19 January, 2019
