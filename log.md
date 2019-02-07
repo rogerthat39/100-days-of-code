@@ -537,14 +537,11 @@
 
 ## Day 68: 30 January, 2019
 
-**Today's Progress:** Finished the portfolio page, and played a couple of interesting games intended to help learn CSS Grid and FlexBox.
+**Today's Progress:** Finished the portfolio page, and played a couple of interesting games intended to help learn [CSS Grid](http://cssgridgarden.com/) and [Flexbox](https://flexboxfroggy.com/).
 
 **Thoughts:** There aren't a lot of projects I have right now that I'm that... proud of? I know I'm still fairly new at this, but I feel the urge to do something more complex. Perhaps I should come back to these early projects later once I know more and spruce them up a bit.
 
-**Links:** 
-1. [Personal Portfolio](https://codepen.io/rogerthat35/pen/QYEjjM)
-2. [Grid Garden game](http://cssgridgarden.com/)
-3. [Flexbox Froggy game](https://flexboxfroggy.com/)
+**Link:** [Personal Portfolio](https://codepen.io/rogerthat35/pen/QYEjjM)
 
 
 ## Day 69: 31 January, 2019
