@@ -1,55 +1,55 @@
 # 100 Days Of Code - Log
 
-## Day 1: 25 November, 2018
+## Day 1: 24 November, 2018
 
 **Today's Progress:** Finished the first two Python modules on the SoloLearn app. The concepts aren't new, but it's good to get a refresher on the syntax and how python works.
 
-**Thoughts:** This is actually the second day of my holidays. I worked out that I had just under 100 days until I start back at uni, so what better way to make sure my programming skills stay sharp than to set myself a personal challenge to code 1h per day until then? 
+**Thoughts:** This is actually the first day of my holidays. I worked out that I had just under 100 days until I start back at uni, so what better way to make sure my programming skills stay sharp than to set myself a personal challenge to code 1h per day until then? I might not be working on a personal project every day of that time like the rules say, but I will be completing some projects I've been meaning to do for a while now, and this is for me anyway. If nothing else, this'll give me some semblance of routine for the summer break.
 
 
-## Day 2: 26 November, 2018
+## Day 2: 25 November, 2018
 
 **Today's Progress:** Finished the next two SoloLearn modules - methods and File I/O.
 
 **Thoughts:** Not too hard to understand, since I've done file I/O in C#. It's funny thinking back to when I first started Python in high school - I had no idea that file I/O was possible. Absolutely blew my mind to realize you could save data and use it after the program has closed.
 
 
-## Day 3: 27 November, 2018
+## Day 3: 26 November, 2018
 
 **Today's Progress:** Completed the next two SoloLearn modules - 'more types' and 'functional programming'.
 
 **Thoughts:** Gonna need to practise this lot in order for it to stick since this is definitely not revision. Not a lot of time today since I was out and about.
 
 
-## Day 4: 28 November, 2018
+## Day 4: 27 November, 2018
 
 **Today's Progress:** Experimenting with file I/O and the itertools library. Also converted the practical exam from C# into python (aside from the GUI) which was a fairly simple I/O program that held 10 lines of data and a single button.
 
 **Thoughts:** Took me 15 minutes to write the practical exam at the time, and probably 20 minutes to write the python version. It definitely helped that that .split(',') was in both languages.
 
 
-## Day 5: 29 November, 2018
+## Day 5: 28 November, 2018
 
 **Today's Progress:** Converted Lab 10 into Python - which involved searching, sorting, and classes.
 
 **Thoughts:** I think that python works like JavaScript where if you cay object2 = object1, it doesn't create a copy, just another name that points to the same location in memory. So in actuality, there's one object that both names are referencing.
 
 
-## Day 6: 30 November, 2018
+## Day 6: 29 November, 2018
 
 **Today's Progress:** Completed the OOP and regex modules in SoloLearn.
 
 **Thoughts:** Some of today's material went a bit fast for me, so I'm going to have to seek out different explanations/exercises to get a better understanding of the concepts.
 
 
-## Day 7: 1 December, 2018
+## Day 7: 30 November, 2018
 
 **Today's Progress:** Read about classes/objects in Python, and completed some exercises, since I realized that I don't remember much of how to do them.
 
 **Link:** [OOP in Python](https://realpython.com/python3-object-oriented-programming/)
 
 
-## Day 8: 2 December, 2018
+## Day 8: 1 December, 2018
 
 **Today's Progress:** Found some Python regular expression exercises to do, and got stuck on #20. 
 
@@ -58,7 +58,7 @@
 **Link:** [Python Regex exercises](https://www.w3resource.com/python-exercises/re/)
 
 
-## Day 9: 3 December, 2018
+## Day 9: 2 December, 2018
 
 **Today's Progress:** Fixed the issue from yesterday, then continued with the rest of the regex exercises. Also completed the final SoloLearn module and test, gaining the certificate.
 
@@ -67,54 +67,54 @@
 **Link:** [Certificate](https://www.sololearn.com/Certificate/1073-11756375/pdf/)
 
 
-## Day 10: 4 December, 2018
+## Day 10: 3 December, 2018
 
 **Today's Progress:** Converted a C# assessment from school into Python. It's a math program that comes up with an equation and takes input for the answer, and lets you know if you got the answer right or not.
 
 
-## Day 11: 5 December, 2018
+## Day 11: 4 December, 2018
 
 **Today's Progress:** Started converting yesterday's school project into a GUI (using tkinter). The original C# application did have pictures and labels, so I'll try to get it to look as close to the original as possible.
 
 **Thoughts:** At the moment, the output prints to the console, and the images aren't up yet. I forgot how to update labels and images like that, so I'll have to find my notes from way back when before tomorrow.
 
 
-## Day 12: 6 December, 2018
+## Day 12: 5 December, 2018
 
 **Today's Progress:** Got the images to work, message box to pop up, and changed the design to look more like it did in C#.
 
 **Thoughts:** Project 1 is now completed! It was certainly easier to do in C#, but there's something about coming back to your first programming language. It's good to keep up the practise, in any case.
 
 
-## Day 13: 7 December, 2018
+## Day 13: 6 December, 2018
 
 **Today's Progress:** Started the GUI for the taxes program (project 2 of the school assignment).
 
 **Thoughts:** It was difficult to do even an hour after a long day, but I managed it and it's a good feeling.
 
 
-## Day 14: 8 December, 2018
+## Day 14: 7 December, 2018
 
 **Today's Progress:** Got the first screen functional and working for the taxes program. 
 
 **Thoughts:** The code looks super long at this point, but it's mostly just creating and displaying widgets.
 
 
-## Day 15: 9 December, 2018
+## Day 15: 8 December, 2018
 
 **Today's Progress:** Figured out how to switch between screens/tabs, put the new widgets in but no functionality yet. 
 
 **Thoughts:** The code looks super long at this point, but it's mostly just creating and displaying widgets.
 
 
-## Day 16: 10 December, 2018
+## Day 16: 9 December, 2018
 
 **Today's Progress:** Finished functionality for the second tab of the taxes program.
 
 **Thoughts:** Trying to make it look exactly the same as in C#, where you can drag and drop objects and they don't have to be in a grid, is borderline impossible. I think I managed to get it to look alright though.
 
 
-## Day 17: 11 December, 2018
+## Day 17: 10 December, 2018
 
 **Today's Progress:** Found a free course on Codecademy for Python - albiet an outdated form, but most of it should still be relevant.
 
@@ -123,14 +123,14 @@
 **Links:** [CodeAcademy Python 2](https://www.codecademy.com/learn/learn-python)
 
 
-## Day 18: 12 December, 2018
+## Day 18: 11 December, 2018
 
 **Today's Progress:** Continued with the Python 2 lessons, now up to 47%.
 
 **Links:** [CodeAcademy Python 2](https://www.codecademy.com/learn/learn-python)
 
 
-## Day 19: 13 December, 2018
+## Day 19: 12 December, 2018
 
 **Today's Progress:** Up to 78% in Python 2 course. Made a calendar program which isn't nearly as cool as it sounds, but it filled in the day.
 
