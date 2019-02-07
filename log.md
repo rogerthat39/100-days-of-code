@@ -1,8 +1,107 @@
 # 100 Days Of Code - Log
 
+## Day 41: 3 January, 2019
+
+**Today's Progress:** More testing, and cleaning up the code (writing comments)
+
+**Thoughts:** I guess it's a good sign if the computer is beating me the majority of the time? Like, since I wrote the program, is it a case of me being smarter than myself? I wasn't expecting the algorithm to be that good yet. Although since it's a card game, maybe it depends on luck more than anything.
+
+
+## Day 42: 4 January, 2019
+
+**Today's Progress:** Changed checkHand to a class function (with no parameters except self), and now starting to get rid of repeating code from the player and computerPlayer classes.
+
+**Thoughts:** Currently at 563 lines of code (including comments), aiming to reduce this number. Hopefully the code won't become unreadable now that I'm adding new functions.
+
+
+## Day 43: 5 January, 2019
+
+**Today's Progress:** Hit a bit of a road block with the "put out card from discard pile" function. For some reason, it says it's putting out one card, but a different card is actually put out.
+
+**Thoughts:** A bit of a bummer not to get that much work done. Going to look at it with fresh eyes tomorrow.
+
+
+## Day 44: 6 January, 2019
+
+**Today's Progress:** Fixed the bug - it was in the original logic (not something I just changed), where the computer would always put out the card from the first discard pile (if the card came from a discard pile).
+
+**Thoughts:** I suspect that I copied code from the "from hand" part of the function and didn't check it properly. Serves me right for copying code instead of making one function that does both.
+
+
+## Day 45: 7 January, 2019
+
+**Today's Progress:** Finished putOutCardFromHand function
+
+**Thoughts:** No notable incidents or anything. Seemed almost peaceful - it's weird not getting any errors.
+
+
+## Day 46: 8 January, 2019
+
+**Today's Progress:** Changed the way pickUpPile works - [random.shuffle](https://stackoverflow.com/questions/976882/shuffling-a-list-of-objects) runs at the start of the game and players then take the top card each time they fill up their hand. Also, created an intermediate function in canStockCardBeReached called createPath, which also takes cases where the pile has to run past 12 to put out the stockCard.
+
+**Thoughts:** I forgot I had that link saved - it's a much simpler solution than picking a random card from the list each time. I'd like to think that only calling a random function once (as opposed to each time someone wants a card) makes the program run faster.
+
+
+## Day 47: 9 January, 2019
+
+**Today's Progress:** General tidying of code, adding comments to make it more readable, and added a new step to computer endTurn when deciding where to put a card.
+
+**Thoughts:** Not sure what else I could do at this point to improve the code? The new step was to tell the computer to try to put a card on a pile with only 1 other card on it before devolving to 'guess I'll pick a random card to go anywhere' since there could be a pile with lots of the same card that you don't want to block off unnecessarily.
+
+
+## Day 48: 10 January, 2019
+
+**Today's Progress:** Changed tryDiscardPile to be more efficient, and started the JS SoloLearn course. Was able to skip ahead to the Objects module since I already knew a bit of JS from last year.
+
+**Thoughts:** There's probably a lot more I could do to improve this Skip-Bo program, but I'm not too sure where to go from here. What I probably should have done was planned out how I was going to do it instead of jumping right in (which felt good at the time!) since I'm now left with ~500 lines of code that could probably be organized and structured better, but at this point that's such a daunting task that I don't know how to start, and I don't really know too much about coding best practises to want to attempt that right now. Plus, the next step after that is most likely to move to a GUI, which would either involve me learning pygame, or moving the code to C#, which I'm not quite ready to do yet. I'm happy to leave this text-based version as tentatively finished, and take a break to work on something else for a while.
+
+
+## Day 49: 11 January, 2019
+
+**Today's Progress:** Did the next two JS SoloLearn modules ('Core Objects' and 'DOM & Events') and finished off the first two chapters of FreeCodeCamp (that I hadn't done from three years ago apparently).
+
+**Thoughts:** Learnt about Bezier curves in CSS, Array methods in JS, the Math Object, and the Document Object Model. An interesting coincidence that the last time I logged in to FreeCodeCamp was exactly three years ago - 11 Feb 2016.
+
+
+## Day 50: 12 January, 2019
+
+**Today's Progress:** Started learning p5.js from a YouTube tutorial called The Coding Train, and drew a cat whose eyes grow and shrink depending on where the mouse is hovering.
+
+**Thoughts:** It was fun to mess around like this, and it's always worth creating something unique instead of following a tutorial directly. Also, I'm halfway there already!! I feel like I will be able to do this
+
+**Link to work:** [Cat Eyes project](https://codepen.io/rogerthat35/pen/EGGoyL)
+
+
+## Day 51: 13 January, 2019
+
+**Today's Progress:** Continuing from yesterday, gave the cat a mouth, nose, and stripes.
+
+**Thoughts:** I'm kinda impressed with how good this looks for a slapdash of shapes and only one moving part.
+
+**Link to work:** [Cat Eyes project](https://codepen.io/rogerthat35/pen/EGGoyL)
+
+
+## Day 52: 14 January, 2019
+
+**Today's Progress:** Made a ball bounce around the screen using p5.js, taking inspiration from a tutorial from The Coding Train on YouTube.
+
+**Thoughts:** It reminds me of the old DVD screensavers. It's pretty nice to look at.
+
+**Link:** [Coding Train tutorial](https://www.youtube.com/watch?v=LO3Awjn_gyU)
+
+
+## Day 53: 15 January, 2019
+
+**Today's Progress:** Found an interesting website called Advent of Code, which supplies Christmas-themed puzzles one day at a time throughout December. Obviously I'm a bit late (it being mid-January) but all the challenges are still up, for every year since 2015. I completed the two Day 1 puzzles for 2018.
+
+**Thoughts:** The first puzzle was straightforward enough, but the second stalled for so long that I thought it was broken. Nope, it was working, just really slowly. In other words, part of the puzzle was optimizing the algorithm so that it works for large inputs. I ended up looking at the Reddit page for help with making the program more efficient.
+
+**Link:** [Advent of Code Day 1](https://adventofcode.com/2018/day/1)
+
+
 ## Day 54: 16 January, 2019
 
-**Today's Progress:** Did four puzzles today, both of Day 2's and both of Day 3's! And comleted the FreeCodeCamp Applied Vidual Design module.
+**Today's Progress:** Did four puzzles today, both of Day 2's and both of Day 3's! And completed the FreeCodeCamp Applied Vidual Design module.
 
 **Thoughts:** I found these puzzles easier than yesterday, probably since none of them needed to be optomized. They were certainly different to anything I've done before, though, and I enjoyed the challenge.
 
@@ -54,7 +153,7 @@
 
 ## Day 59: 21 January, 2019
 
-**Today's Progress:** Completed the SoloLearn JavaScript course.
+**Today's Progress:** Did the last SoloLearn JS module about ECMAScript 6, which means I've completed the course.
 
 **Thoughts:** Was away from my computer for most of the day, so I worked on the SoloLearn app.
 
