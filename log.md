@@ -44,18 +44,14 @@
 
 ## Day 7: 30 November, 2018
 
-**Today's Progress:** Read about classes/objects in Python, and completed some exercises, since I realized that I don't remember much of how to do them.
-
-**Link:** [OOP in Python](https://realpython.com/python3-object-oriented-programming/)
+**Today's Progress:** Read about classes/objects in Python, and completed some [exercises](https://realpython.com/python3-object-oriented-programming/), since I realized that I don't remember much of how to do them.
 
 
 ## Day 8: 1 December, 2018
 
-**Today's Progress:** Found some Python regular expression exercises to do, and got stuck on #20. 
+**Today's Progress:** Found some Python [regular expression exercises](https://www.w3resource.com/python-exercises/re/) to do, and got stuck on #20. 
 
 **Thoughts:** For some reason it's not always working as I'd expect. Should the regex always starts the search from the beginning of the string, even when ^ is not specified? Do I need to use boundaries instead?
-
-**Link:** [Python Regex exercises](https://www.w3resource.com/python-exercises/re/)
 
 
 ## Day 9: 2 December, 2018
@@ -116,93 +112,66 @@
 
 ## Day 17: 10 December, 2018
 
-**Today's Progress:** Found a free course on Codecademy for Python - albiet an outdated form, but most of it should still be relevant.
+**Today's Progress:** Found a free course on Codecademy for [Python](https://www.codecademy.com/learn/learn-python) - albiet an outdated form, but most of it should still be relevant.
 
 **Thoughts:** It's strange not using brackets for print statements though.
-
-**Links:** [CodeAcademy Python 2](https://www.codecademy.com/learn/learn-python)
 
 
 ## Day 18: 11 December, 2018
 
-**Today's Progress:** Continued with the Python 2 lessons, now up to 47%.
-
-**Links:** [CodeAcademy Python 2](https://www.codecademy.com/learn/learn-python)
+**Today's Progress:** Continued with the [Python 2](https://www.codecademy.com/learn/learn-python) lessons, now up to 47%.
 
 
 ## Day 19: 12 December, 2018
 
-**Today's Progress:** Up to 78% in Python 2 course. Made a calendar program which isn't nearly as cool as it sounds, but it filled in the day.
+**Today's Progress:** Up to 78% in [Python 2](https://www.codecademy.com/learn/learn-python) course. Made a calendar program which isn't nearly as cool as it sounds, but it filled in the day.
 
 **Thoughts:** Just discovered the quizzes and side projects. That's probably why the % jumped up so much compared to yesterday.
-
-**Links:** [CodeAcademy Python 2](https://www.codecademy.com/learn/learn-python)
 
 
 ## Day 20: 13 December, 2018
 
-**Today's Progress:** Did more projects in Python 2, but didn't quite finish. Up to 94% completion.
+**Today's Progress:** Did more projects in [Python 2](https://www.codecademy.com/learn/learn-python), but didn't quite finish. Up to 94% completion.
 
 **Thoughts:** A car crashed into the power box down the road and caused a power cut. I worked until I ran out of battery on my laptop.
-
-**Links:** [CodeAcademy Python 2](https://www.codecademy.com/learn/learn-python)
 
 
 ## Day 21: 14 December, 2018
 
-**Today's Progress:** Finished the Python 2 course, and 43% of the way through the Python 3 course.
+**Today's Progress:** Finished the [Python 2](https://www.codecademy.com/learn/learn-python) course, and 43% of the way through the [Python 3](https://www.codecademy.com/learn/learn-python-3) course.
 
 **Thoughts:** Just discovered that I have a pro membership going, so I can do pro courses?? Not sure how, since I didn't pay for one. I guess this is a free trial? Either way, gonna try to make the most of this.
-
-**Links:** [CodeAcademy Python 3](https://www.codecademy.com/learn/learn-python-3)
 
 
 ## Day 22: 15 December, 2018
 
-**Today's Progress:** Finished the Python 3 course.
+**Today's Progress:** Finished the [Python 3](https://www.codecademy.com/learn/learn-python-3) course.
 
 **Thoughts:** A lot of this was revision from things done previously, but the quizzes were worthwhile and there was a few new things sprinkled in there. Only two days left of the pro trial, going to try to get as many pro courses under my belt as possible.
-
-**Links:** [CodeAcademy Python 3](https://www.codecademy.com/learn/learn-python-3)
 
 
 ## Day 23: 16 December, 2018
 
-**Today's Progress:** Finished two courses, Python Recursion and Natural Language Processing
+**Today's Progress:** Finished two courses, [Python Recursion](https://www.codecademy.com/learn/learn-recursion-python) and [Natural Language Processing](https://www.codecademy.com/learn/natural-language-processing)
 
 **Thoughts:** Some parts of both courses went a little over my head, but it was interesting to see what people can really do with Python and things like the bag-of-words model.
-
-**Links:** 
-1. [CodeAcademy NLP](https://www.codecademy.com/learn/natural-language-processing)
-2. [CodeAcademy Python Recursion](https://www.codecademy.com/learn/learn-recursion-python)
 
 
 ## Day 24: 17 December, 2018
 
-**Today's Progress:** Started the Pandas codecademy course
+**Today's Progress:** Started the [Pandas](https://www.codecademy.com/learn/data-processing-pandas) Codecademy course
 
 **Thoughts:** My free trial runs out today, so I probably won't be able to finish the course.
-
-**Link:** https://www.codecademy.com/learn/data-processing-pandas
 
 
 ## Day 25: 18 December, 2018
 
-**Today's Progress:** Did two CoderByte challenges.
-
-**Links:**
-1. https://www.coderbyte.com/editor/guest:Longest%20Word
-2. https://www.coderbyte.com/language/Letter%20Changes
+**Today's Progress:** Did two CoderByte challenges - finding the [longest word](https://www.coderbyte.com/language/Longest%20Word) in a sentence, and a simple [message scrambler](https://www.coderbyte.com/language/Letter%20Changes).
 
 
 ## Day 26: 19 December, 2018
 
-**Today's Progress:** Did three more challenges from the website CoderByte.
-
-**Links:**
-1. https://www.coderbyte.com/editor/guest:Simple%20Symbols
-2. https://www.coderbyte.com/language/Letter%20Capitalize
-3. https://www.coderbyte.com/language/Simple%20Adding
+**Today's Progress:** Did [three](https://www.coderbyte.com/language/Simple%20Symbols) [more](https://www.coderbyte.com/language/Letter%20Capitalize) [challenges](https://www.coderbyte.com/language/Simple%20Adding) from the website CoderByte.
 
 
 ## Day 27: 20 December, 2018
@@ -382,74 +351,53 @@
 
 ## Day 52: 14 January, 2019
 
-**Today's Progress:** Made a ball bounce around the screen using p5.js, taking inspiration from a tutorial from The Coding Train on YouTube.
+**Today's Progress:** Made a ball bounce around the screen using p5.js, taking inspiration from a tutorial from [The Coding Train](https://www.youtube.com/watch?v=LO3Awjn_gyU) on YouTube.
 
 **Thoughts:** It reminds me of the old DVD screensavers. It's pretty relaxing to look at.
 
-**Links:** 
-1. [Bouncing Ball](https://codepen.io/rogerthat35/pen/pGdLyd)
-2. [Coding Train tutorial](https://www.youtube.com/watch?v=LO3Awjn_gyU)
+**Link to work:** [Bouncing Ball](https://codepen.io/rogerthat35/pen/pGdLyd)
 
 
 ## Day 53: 15 January, 2019
 
-**Today's Progress:** Found an interesting website called Advent of Code, which supplies Christmas-themed puzzles one day at a time throughout December. Obviously I'm a bit late (it being mid-January) but all the challenges are still up, for every year since 2015. I completed the two Day 1 puzzles for 2018.
+**Today's Progress:** Found an interesting website called Advent of Code, which supplies Christmas-themed puzzles one day at a time throughout December. Obviously I'm a bit late (it being mid-January) but all the challenges are still up, for every year since 2015. I completed the two [Day 1 puzzles](https://adventofcode.com/2018/day/1) for 2018.
 
 **Thoughts:** The first puzzle was straightforward enough, but the second stalled for so long that I thought it was broken. Nope, it was working, just really slowly. In other words, part of the puzzle was optimizing the algorithm so that it works for large inputs. I ended up looking at the Reddit page for help with making the program more efficient.
-
-**Link:** [Advent of Code Day 1](https://adventofcode.com/2018/day/1)
 
 
 ## Day 54: 16 January, 2019
 
-**Today's Progress:** Did four puzzles today, both of Day 2's and both of Day 3's! And completed the FreeCodeCamp Applied Vidual Design module.
+**Today's Progress:** Did four puzzles today, both of [Day 2's](https://adventofcode.com/2018/day/2) and both of [Day 3's](https://adventofcode.com/2018/day/3)! And completed the FreeCodeCamp [Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design) module.
 
 **Thoughts:** I found these puzzles easier than yesterday, probably since none of them needed to be optomized. They were certainly different to anything I've done before, though, and I enjoyed the challenge.
-
-**Links:** 
-1. [Advent of Code Day 2](https://adventofcode.com/2018/day/2)
-2. [Advent of Code Day 3](https://adventofcode.com/2018/day/3)
-3. [FreeCodeCamp Applied Visual Design module](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
 
 
 ## Day 55: 17 January, 2019
 
-**Today's Progress:** Finished both Advent of Code Day 4 puzzles, using Python and regex. It runs surprisingly quickly for the amount of data given.
+**Today's Progress:** Finished both Advent of Code [Day 4 puzzles](https://adventofcode.com/2018/day/4), using Python and regex. It runs surprisingly quickly for the amount of data given.
 
 **Thoughts:** Spent a while debugging a silly error I introduced while trying to make the program more efficient prematurely, so didn't get as many done as yesterday. I still felt accomplished after getting this far, though. I'm also very thankful for Python's .sort function, as the puzzle would've been much harder without it!
-
-**Link:** [Advent of Code Day 4](https://adventofcode.com/2018/day/4)
 
 
 ## Day 56: 18 January, 2019
 
-**Today's Progress:** Finished both Day 5 puzzles, then looked on Reddit for how I could have approached the problem differently. 
+**Today's Progress:** Finished both [Day 5 puzzles](https://adventofcode.com/2018/day/5), then looked on [Reddit](https://www.reddit.com/r/adventofcode/comments/a3912m/2018_day_5_solutions/) for how I could have approached the problem differently. 
 
 **Thoughts:** My algorithms both worked, but clearly aren't optimized, as it takes at least 10 minutes to get an answer (for the first one - it has to run x26 for the second). I ended up stopping it for the second puzzle after it reached a number that was clearly lower than any others I'd gotten so far, tried it, and it ended up being correct. Looking at other answers showed that I was calling the function way too many times - each time I found a match and got rid of it, I'd start the entire loop again and start comparing from the beginning! No wonder it took so long. It would have been much better to stay in the same place in the polymer, and compare the letters before and after the pointer, since no combinations could have spontaneously appeared where the reaction had not taken place.
-
-**Links:** 
-1. [Advent of Code Day 5](https://adventofcode.com/2018/day/5)
-2. [Reddit Solutions](https://www.reddit.com/r/adventofcode/comments/a3912m/2018_day_5_solutions/)
 
 
 ## Day 57: 19 January, 2019
 
-**Today's Progress:** Got stuck on the Day 6 puzzle (first puzzle). Instead, I completed the FreeCodeCamp Accessibility module.
+**Today's Progress:** Got stuck on the [Day 6 puzzle](https://adventofcode.com/2018/day/6) (first puzzle). Instead, I completed the FreeCodeCamp [Accessibility module](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility).
 
-**Thoughts:** The puzzle concerns something I'm not familiar with and couldn't get my head around in a day ([Taxicab Geometry](https://en.wikipedia.org/wiki/Taxicab_geometry)). Perhaps I'll come back to it some other day, once I've brushed up on high school trig.
-
-**Links:** 
-1. [Advent of Code Day 6](https://adventofcode.com/2018/day/6)
-2. [FreeCodeCamp Accessibility module](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility)
+**Thoughts:** The puzzle concerns something I'm not familiar with and couldn't get my head around in a day ([Taxicab Geometry](https://en.wikipedia.org/wiki/Taxicab_geometry)). A bit of a shame since I was really enjoying them, so perhaps I'll come back to it some other day, once I've brushed up on high school trig.
 
 
 ## Day 58: 20 January, 2019
 
-**Today's Progress:** Did the FreeCodeCamp Responsive Web Design module.
+**Today's Progress:** Did the FreeCodeCamp [Responsive Web Design](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles) module.
 
 **Thoughts:** Since this module was quite short, I spent the rest of the time looking up terms I didn't understand, and looking for other resources about accessibility on the web.
-
-**Link to work:** [FreeCodeCamp Responsive Web Design module](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles)
 
 
 ## Day 59: 21 January, 2019
@@ -458,18 +406,14 @@
 
 **Thoughts:** Was away from my computer for most of the day, so I worked on the SoloLearn app.
 
-**Link to work:** [Certificate](https://www.sololearn.com/Certificate/1024-11756375/pdf/)
+**Link:** [Certificate](https://www.sololearn.com/Certificate/1024-11756375/pdf/)
 
 
 ## Day 60: 22 January, 2019
 
-**Today's Progress:** Completed the CSS Flexbox and CSS Grid modules.
+**Today's Progress:** Completed the [CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox) and [CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid) modules.
 
 **Thoughts:** The CSS Grid stuff was revision, but I hadn't learnt Flexbox before. I was expecting it to be much more complicated, but I might actually prefer it to Grid.
-
-**Links to work:** 
-1. [FreeCodeCamp CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
-2. [FreeCodeCamp CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
 
 
 ## Day 61: 23 January, 2019
@@ -541,7 +485,7 @@
 
 **Thoughts:** There aren't a lot of projects I have right now that I'm that... proud of? I know I'm still fairly new at this, but I feel the urge to do something more complex. Perhaps I should come back to these early projects later once I know more and spruce them up a bit.
 
-**Link:** [Personal Portfolio](https://codepen.io/rogerthat35/pen/QYEjjM)
+**Link to work:** [Personal Portfolio](https://codepen.io/rogerthat35/pen/QYEjjM)
 
 
 ## Day 69: 31 January, 2019
@@ -584,35 +528,33 @@
 
 ## Day 73: 4 February, 2019
 
-**Today's Progress:** Completed the Basic JavaScript module from the JavaScript Algorithms and Data Structures Certification.
+**Today's Progress:** Completed the [Basic JavaScript module](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript) from the JavaScript Algorithms and Data Structures Certification.
 
 **Thoughts:** Onto the next certificate! This was all familiar, since I learnt a bit of JavaScript last year before starting this challenge. Doing all 107 exercises tired me out, though.
-
-**Link to work:** [FreeCodeCamp Intro to JS](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
 
 
 ## Day 74: 5 February, 2019
 
-**Today's Progress:** Started on the ES6 module, learning about the spread operator and destructuring assignment.
+**Today's Progress:** Started on the FreeCodeCamp [ES6 module](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6), learning about the spread operator and destructuring assignment.
 
 **Thoughts:** This is a lot different from anything I've done before in JS, syntax-wise. I'm going to have to look up some other explanations for it to sink in.
-
-**Link to work:** [FreeCodeCamp ES6 module](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
 
 
 ## Day 75: 6 February, 2019
 
-**Today's Progress:** Finished the rest of the ES6 module on freecodecamp.
+**Today's Progress:** Finished the rest of the [ES6 module](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6) on FreeCodeCamp.
 
 **Thoughts:** Starting to feel a bit unmotivated/burnt out. It's getting hard to continue after the first hour of work.
-
-**Link to work:** [FreeCodeCamp ES6 module](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
 
 
 ## Day 76: 7 February, 2019
 
-**Today's Progress:** Finished regular expressions FreeCodeCamp module.
+**Today's Progress:** Finished [Regular Expressions FreeCodeCamp module](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions).
 
 **Thoughts:** Finally got around to learning how GitHub works and forking the 100DaysOfCode repo to write about my journey publically. I wasn't originally going to do this, since I have my own journals I write in every day, but Git is a valuable skill to learn, and I was just putting it off. So if anyone noticed the start date of the 100DaysOfCode was before the start date of this account, that's why. I should also move some of the projects I worked on over here.
 
-**Link:** [FreeCodeCamp RegEx module](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions)
+## Day 77: 8 February, 2019
+
+**Today's Progress:**
+
+**Thoughts:** I did a lot of typing yesterday, and now my left hand is sore. It's probably because the 'm' key is broken on my keyboard, and I was copy pasting that letter each time I needed it, which probably isn't the direction you're hand is supposed to move too often.
