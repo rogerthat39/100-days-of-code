@@ -20,7 +20,7 @@
 
 ## Day 64: 26 January, 2019
 
-**Today's Progress:** Continued working on the landing page, and figured out what the glitch was almost immediately. I hadn't set the padding and margins of the <ul> element to 0, hence the gap between the img and links, but not between the links themselves. I spent the whole time thinking it was the img's fault.
+**Today's Progress:** Continued working on the landing page, and figured out what the glitch was almost immediately. I hadn't set the padding and margins of the \<ul> element to 0, hence the gap between the img and links, but not between the links themselves. I spent the whole time thinking it was the img's fault.
 
 **Thoughts:** I guess it can be beneficial to step away from a problem for a while/sleep on it lmao.
 
