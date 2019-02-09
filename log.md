@@ -557,5 +557,4 @@
 
 **Today's Progress:** Completed the [FreeCodeCamp debugging](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging) module at about 1am. That still counts as today right? I'm so tired.
 
-**Thoughts:** I did a lot of typing yesterday, and now my left hand is sore. It's probably because the 'm' key is broken on my keyboard, and I was copy pasting that letter each time I needed it, which probably isn't the direction you're hand is supposed to move too often.
-
+**Thoughts:** I did a lot of typing yesterday, and now my left hand is sore. It's probably because the 'm' key is broken on my keyboard, and I was copy pasting that letter each time I needed it, which probably isn't the direction you're hand is supposed to move too often. Gonna have to look after my physical body too, especially making a career out of this.
