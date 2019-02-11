@@ -559,12 +559,23 @@
 
 **Thoughts:** I did a lot of typing yesterday, and now my left hand is sore. It's probably because the 'm' key is broken on my keyboard, and I was copy pasting that letter each time I needed it, which probably isn't the direction you're hand is supposed to move too often. Gonna have to look after my physical body too, especially making a career out of this.
 
+
 ## Day 78: 9 February, 2019
+
+**Today's Progress:** Got about half way through the FreeCodeCamp [Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures) module.
+
+**Thoughts:** The internet cut out, and I was having trouble, so I decided this would be a good stopping point. A little unsatisfying but so is learning syntax. Hopefully this will look better tomorrow.
+
 
 ## Day 79: 10 February, 2019
 
+**Today's Progress:** Finished the [Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures) module and started [Basic Algorithms](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
+
+**Thoughts:** The reason I was stuck yesterday was I fotgot what key value pairs were. So I was trying to access the thing like a nested object, when I needed to access the value as obj[name] instead.
+
+
 ## Day 80: 11 February, 2019
 
-**Today's Progress:**
+**Today's Progress:** Finished the rest of the FreeCodeCamp [Basic Algorithm](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting) module. 
 
 **Thoughts:** JavaScript can be hard to debug - especially nested arrays, because they display without the [] brackets? So it's frustrating when it appears to be working when you console.log() it, where the actual data displays differently.
