@@ -4,7 +4,7 @@
 
 **Today's Progress:** Finished the first two Python modules on the SoloLearn app. The concepts aren't new, but it's good to get a refresher on the syntax and how python works.
 
-**Thoughts:** This is actually the first day of my holidays. I worked out that I had just under 100 days until I start back at uni, so what better way to make sure my programming skills stay sharp than to set myself a personal challenge to code 1h per day until then? I might not be working on a personal project every day of that time like the rules say, but I will be completing some projects I've been meaning to do for a while now, and this is for me anyway. If nothing else, this'll give me some semblance of routine for the summer break.
+**Thoughts:** This is actually the first day of my holidays. I worked out that I had just under 100 days until I start back at uni, so what better way to make sure my programming skills stay sharp than to set myself a personal challenge to code 1h per day until then? I might not be working on a personal project <i>every</i> day of that time like the rules say, but I do plan to try out some things I've been meaning to do for a while now, and this is for me anyway. If nothing else, this'll give me some semblance of routine for the summer break.
 
 
 ## Day 2: 25 November, 2018
