@@ -592,4 +592,4 @@
 
 **Thoughts:** If it weren't for user Barmar on this [StackOverFlow question](https://stackoverflow.com/questions/18638109/event-listener-running-function-before-the-element-is-clicked-in-chrome-extensio), I would've been stuck wondering why my function call didn't work. Otherwise, it was pretty fun working out how to get the program working.
 
-**Link to work:**
+**Link to work:** https://rogerthat39.github.io/memory-game/index.html
