@@ -585,3 +585,11 @@
 **Today's Progress:** Completed the FreeCodeCamp [Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming) module.
 
 **Thoughts:** I would have been really confused if I had tried this module even last year. It's nice being able to relate back to stuff I've done before, and learn new parts to those ideas that further solidify my understanding of them.
+
+## Day 82: 13 February, 2019
+
+**Today's Progress:** Did a little side project - a memory matching card game where you try to match two cards
+
+**Thoughts:** If it weren't for user Barmar on this [StackOverFlow question](https://stackoverflow.com/questions/18638109/event-listener-running-function-before-the-element-is-clicked-in-chrome-extensio), I would've been stuck wondering why my function call didn't work. Otherwise, it was pretty fun working out how to get the program working.
+
+**Link to work:**
