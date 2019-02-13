@@ -590,6 +590,6 @@
 
 **Today's Progress:** Did a little side project - a memory matching card game where you try to match two cards
 
-**Thoughts:** If it weren't for user Barmar on this [StackOverFlow question](https://stackoverflow.com/questions/18638109/event-listener-running-function-before-the-element-is-clicked-in-chrome-extensio), I would've been stuck wondering why my function call didn't work. Otherwise, it was pretty fun working out how to get the program working.
+**Thoughts:** If it weren't for user Barmar on this [StackOverFlow question](https://stackoverflow.com/questions/18638109/event-listener-running-function-before-the-element-is-clicked-in-chrome-extensio), I would've been stuck for ages wondering why my function call didn't work. Otherwise, it was pretty fun working out how to get the program working.
 
 **Link to work:** https://rogerthat39.github.io/memory-game/index.html
