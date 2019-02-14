@@ -580,11 +580,13 @@
 
 **Thoughts:** JavaScript can be hard to debug - especially nested arrays, because they display without the [ ] brackets? So it's hard to see if it's working as intended when you console.log() it, since all the data appears one after the other no matter how many 'levels in' each bit is.
 
+
 ## Day 81: 12 February, 2019
 
 **Today's Progress:** Completed the FreeCodeCamp [Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming) module.
 
 **Thoughts:** I would have been really confused if I had tried this module even last year. It's nice being able to relate back to stuff I've done before, and learn new parts to those ideas that further solidify my understanding of them.
+
 
 ## Day 82: 13 February, 2019
 
@@ -593,3 +595,9 @@
 **Thoughts:** If it weren't for user Barmar on this [StackOverFlow question](https://stackoverflow.com/questions/18638109/event-listener-running-function-before-the-element-is-clicked-in-chrome-extensio), I would've been stuck for ages wondering why my function call didn't work. Otherwise, it was pretty fun working out how to get the program working.
 
 **Link to work:** https://rogerthat39.github.io/memory-game/index.html
+
+
+## Day 83: 14 February, 2019
+
+**Today's Progress:** Started [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming) module
+
