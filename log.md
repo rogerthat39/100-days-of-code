@@ -606,6 +606,6 @@
 
 ## Day 84: 15 February, 2019
 
-**Today's Progress:** 
+**Today's Progress:** Finished the [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming) module.
 
-**Thoughts:** Learning about the map function, using it, and then <i>creating my own one</i> is wild to me. I feel like I'm learning a lot through this course.
+**Thoughts:** Learning about the map function (and filter) and then <i>creating my own one</i> is wild to me. Not sure if I quite got my head around reduce though. I feel like I've learnt a lot even over the past couple of days
