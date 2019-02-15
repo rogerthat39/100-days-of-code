@@ -602,3 +602,10 @@
 **Today's Progress:** Started [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming) module
 
 **Thoughts:** As I understand it, you can parse in a function to another function by omitting the brackets? Which is different from calling the function, which does include the brackets eg. function(). Yesterday's project makes so much more sense now.
+
+
+## Day 84: 15 February, 2019
+
+**Today's Progress:** 
+
+**Thoughts:** Learning about the map function, using it, and then <i>creating my own one</i> is wild to me. I feel like I'm learning a lot through this course.
