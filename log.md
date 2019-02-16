@@ -609,3 +609,10 @@
 **Today's Progress:** Finished the [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming) module.
 
 **Thoughts:** Learning about the map function (and filter) and then <i>creating my own one</i> is wild to me. Not sure if I quite got my head around reduce though. I feel like I've learnt a lot even over the past couple of days
+
+
+## Day 85: 16 February, 2019
+
+**Today's Progress:** Started the [Intermediate Algorithm](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) FreeCodeCamp module.
+
+**Thoughts:** Some of these problems are quite difficult. I'm probably going to have to take a few days to complete this one, which is good, since it means it's really stretching the limits of what I'm able to do!
