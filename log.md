@@ -578,7 +578,7 @@
 
 **Today's Progress:** Finished the rest of the FreeCodeCamp [Basic Algorithm](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting) module. 
 
-**Thoughts:** JavaScript can be hard to debug - especially nested arrays, because they display without the [ ] brackets? So it's hard to see if it's working as intended when you console.log() it, since all the data appears one after the other no matter how many 'levels in' each bit is.
+**Thoughts:** JavaScript can be hard to debug - especially nested arrays, because they display without the [ ] brackets? So it's hard to see if it's working as intended when you console.log() it, since all the data appears one after the other no matter how many 'levels in' each bit is. Also sometimes it'll just break and not give you an error message :(
 
 
 ## Day 81: 12 February, 2019
