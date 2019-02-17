@@ -616,3 +616,10 @@
 **Today's Progress:** Started the [Intermediate Algorithm](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) FreeCodeCamp module.
 
 **Thoughts:** Some of these problems are quite difficult. I'm probably going to have to take a few days to complete this one, which is good, since it means it's really stretching the limits of what I'm able to do!
+
+
+## Day 86: 17 February, 2019
+
+**Today's Progress:** Continued with the [Intermediate Algorithm](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) FreeCodeCamp module.
+
+**Thoughts:** This is taking a bit longer than I thought they were going to. I've been creating my own solution that works, and then looking at what other people have tried and discovering that there are multiple better ways of doing it. Hopefully reading and understanding the other solutions will allow me to write better code next time?
