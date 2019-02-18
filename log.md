@@ -553,6 +553,7 @@
 
 **Thoughts:** Finally got around to learning how GitHub works and forking the 100DaysOfCode repo to write about my journey publically. I wasn't originally going to do this, since I have my own journals I write in every day, but Git is a valuable skill to learn, and I was just putting it off. So if anyone noticed the start date of the 100DaysOfCode was before the start date of this account, that's why. I should also move some of the projects I worked on over here.
 
+
 ## Day 77: 8 February, 2019
 
 **Today's Progress:** Completed the [FreeCodeCamp debugging](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging) module at about 1am. That still counts as today right? I'm so tired.
@@ -578,7 +579,7 @@
 
 **Today's Progress:** Finished the rest of the FreeCodeCamp [Basic Algorithm](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting) module. 
 
-**Thoughts:** JavaScript can be hard to debug - especially nested arrays, because they display without the [ ] brackets? So it's hard to see if it's working as intended when you console.log() it, since all the data appears one after the other no matter how many 'levels in' each bit is. Also sometimes it'll just break and not give you an error message :(
+**Thoughts:** JavaScript can be hard to debug - especially nested arrays, because they display without the [ ] brackets? So it's hard to see if it's working as intended when you console.log() it, since all the data appears one after the other no matter how many 'levels in' each bit is. It might be because I'm working in the FCC console? Also sometimes it'll just break and not give you an error message :(
 
 
 ## Day 81: 12 February, 2019
