@@ -631,3 +631,10 @@
 **Today's Progress:** Continuing on with the [Intermediate Algorithm](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) module, I went back to a couple of activities I had skipped and gave them another go.
 
 **Thoughts:** While in one case it involved deleting half of it and starting over, it was great to finish something I was struggling with and didn't know how to do.
+
+
+## Day 88: 19 Febryary, 2019
+
+**Today's Progress:** Finished the [Intermediate Algorithm](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) module!
+
+**Thoughts:** Wow, that took a lot longer than I was anticipating. Still, something about it makes me feel accomplished. Looking forward to starting the projects tomorrow.
