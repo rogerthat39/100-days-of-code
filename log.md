@@ -643,4 +643,4 @@
 
 **Today's Progress:** Completed the first three [JavaScript Projects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects).
 
-**Thoughts:** I was expecting something more in the vein of the first certification's projects, but these just seem like regular modules. I was surprised to have finished so many of them in one day.
+**Thoughts:** I was expecting something more in the vein of the first certification's projects, but these just seem like regular modules, similar to the Intermediate Algorithm challenges. I was surprised to have finished so many of them in one day.
