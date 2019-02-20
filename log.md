@@ -633,8 +633,14 @@
 **Thoughts:** While in one case it involved deleting half of it and starting over, it was great to finish something I was struggling with and didn't know how to do.
 
 
-## Day 88: 19 Febryary, 2019
+## Day 88: 19 February, 2019
 
 **Today's Progress:** Finished the [Intermediate Algorithm](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) module!
 
 **Thoughts:** Wow, that took a lot longer than I was anticipating. Still, something about it makes me feel accomplished. Looking forward to starting the projects tomorrow.
+
+## Day 89: 20 February, 2019
+
+**Today's Progress:** Completed the first three [JavaScript Projects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects).
+
+**Thoughts:** I was expecting something more in the vein of the first certification's projects, but these just seem like regular modules. I was surprised to have finished so many of them in one day.
