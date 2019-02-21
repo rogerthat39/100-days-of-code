@@ -644,3 +644,10 @@
 **Today's Progress:** Completed the first three [JavaScript Projects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects).
 
 **Thoughts:** I was expecting something more in the vein of the first certification's projects, but these just seem like regular modules, similar to the Intermediate Algorithm challenges. I was surprised to have finished so many of them in one day.
+
+
+## Day 90: 21 February, 2019
+
+**Today's Progress:** Completed the next project - Telephone Number Validator
+
+**Thoughts:** Had to brush up on some regexp to tackle this problem, but it was satisfying to finally pass all the tests. My sister looked over my shoulder while I was typing and asked if the cat had stepped on the keyboard in the middle of the line I was writing lol
