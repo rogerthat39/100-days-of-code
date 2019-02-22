@@ -651,3 +651,12 @@
 **Today's Progress:** Completed the next project - Telephone Number Validator
 
 **Thoughts:** Had to brush up on some regexp to tackle this problem, but it was satisfying to finally pass all the tests. My sister looked over my shoulder while I was typing and asked if the cat had stepped on the keyboard in the middle of the line I was writing lol
+
+
+## Day 91: 22 February, 2019
+
+**Today's Progress:** Completed the last project, a cash register, and with that the certification's done!
+
+**Thoughts:** This was definitely the most challenging project, but it felt good to complete the course! I had thought it would take me at least another week.
+
+**Link to work:** [JavaScript Algorithms and Data Structures certificate](https://www.freecodecamp.org/certification/rogerthat35/javascript-algorithms-and-data-structures)
