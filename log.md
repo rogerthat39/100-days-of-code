@@ -660,3 +660,10 @@
 **Thoughts:** This was definitely the most challenging project, but it felt good to complete the course! I had thought it would take me at least another week.
 
 **Link to work:** [JavaScript Algorithms and Data Structures certificate](https://www.freecodecamp.org/certification/rogerthat35/javascript-algorithms-and-data-structures)
+
+
+## Day 92: 23 February, 2019
+
+**Today's progress:** Created a web page that updates the position of the ISS on top of a world map.
+
+**Thoughts:** While probably not completely accurate, it was fun to learn about the JSON format and APIs. [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r) on YouTube is a really great tutorial channel for these types of things.
