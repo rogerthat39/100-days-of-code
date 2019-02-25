@@ -664,6 +664,16 @@
 
 ## Day 92: 23 February, 2019
 
-**Today's progress:** Created a web page that updates the position of the ISS on top of a world map.
+**Today's Progress:** Created a web page that updates the position of the ISS on top of a world map.
 
 **Thoughts:** While probably not completely accurate, it was fun to learn about the JSON format and APIs. [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r) on YouTube is a really great tutorial channel for these types of things.
+
+
+## Day 93: 24 February, 2019
+
+**Today's Progress:** Fixed a bug in the position of the ISS, and learnt more about APIs.
+
+
+## Day 94: 25 February, 2019
+
+**Today's Progress:** Worked on the memory game
