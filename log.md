@@ -679,3 +679,10 @@
 **Today's Progress:** Fixed a few issues on the memory game
 
 **Thoughts:** I made the images preload as the page loads, so there isn't any delay when turning over a card for the first time, added a message that says "You Win!" after all the cards have been cleared, and fixed a bug where you could flip over more than 2 cards at a time.
+
+
+## Day 95: 26 February, 2019
+
+**Today's Progress:** Worked on a 'benchmarking' C# application that covered what we learnt last year at uni.
+
+**Thoughts:** First day back, and my first class was programming! Even if this week was mostly revision, it's good to brush up on the syntax which I haven't touched for nearly 100 days
