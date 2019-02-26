@@ -676,4 +676,6 @@
 
 ## Day 94: 25 February, 2019
 
-**Today's Progress:** Worked on the memory game
+**Today's Progress:** Fixed a few issues on the memory game
+
+**Thoughts:** I made the images preload as the page loads, so there isn't any delay when turning over a card for the first time, added a message that says "You Win!" after all the cards have been cleared, and fixed a bug where you could flip over more than 2 cards at a time.
