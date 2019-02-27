@@ -686,3 +686,10 @@
 **Today's Progress:** Worked on a 'benchmarking' C# application that covered what we learnt last year at uni.
 
 **Thoughts:** First day back, and my first class was programming! Even if this week was mostly revision, it's good to brush up on the syntax which I haven't touched for nearly 100 days
+
+
+## Day 96: 27 February, 2019
+
+**Today's Progress:** Continued work on yesterday's benchmarking application in C#
+
+**Thoughts:** My computer is starting to run really slow, and it's fighting me every step of the way for this application. It's hard to debug when I don't know if I'm waiting for the output to appear, or if there's a bug in my code causing nothing to happen. A bit sad that I'll probably need a new laptop soon.
