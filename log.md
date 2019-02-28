@@ -692,4 +692,11 @@
 
 **Today's Progress:** Continued work on yesterday's benchmarking application in C#
 
-**Thoughts:** My computer is starting to run really slow, and it's fighting me every step of the way for this application. It's hard to debug when I don't know if I'm waiting for the output to appear, or if there's a bug in my code causing nothing to happen. A bit sad that I'll probably need a new laptop soon.
+**Thoughts:** My computer is starting to run really slow, and it's fighting me every step of the way for this application. It's hard to debug when I don't know if I'm waiting for the output to appear, or if there's a bug in my code causing nothing to happen. And especially hard when the battery spontaneously runs out without warning me.
+
+
+## Day 97: 28 February, 2019
+
+**Today's Progress:** Picked up an old incomplete C# minesweeper clone - tidied up some of the code and started planning how to do the next parts.
+
+**Thoughts:** Mostly re-writing functions and adding in new comments today. I did not leave good notes on what this thing does. There are a few issues that I don't quite know how to solve - namely how to get a clicked '0' to also click all the buttons around it when I don't have the index number of that original '0' - but at least the code I have seems to work even if it's a little naive. 
