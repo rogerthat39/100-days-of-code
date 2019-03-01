@@ -700,3 +700,10 @@
 **Today's Progress:** Picked up an old incomplete C# minesweeper clone - tidied up some of the code and started planning how to do the next parts.
 
 **Thoughts:** Mostly re-writing functions and adding in new comments today. I did not leave good notes on what this thing does. There are a few issues that I don't quite know how to solve - namely how to get a clicked '0' to also click all the buttons around it when I don't have the index number of that original '0' - but at least the code I have seems to work even if it's a little naive. 
+
+
+## Day 98: 1 March, 2019
+
+**Today's Progress:** Added in sound and a way to lose, which includes not being able to press any buttons until 'new game' is selected.
+
+**Thoughts:** Still stuch on same problem as yesterday, so I don't feel like I got a lot done. Unfortunately no closer to solving the problem either.
