@@ -707,3 +707,10 @@
 **Today's Progress:** Added in sound and a way to lose, which includes not being able to press any buttons until 'new game' is selected.
 
 **Thoughts:** Still stuch on same problem as yesterday, so I don't feel like I got a lot done. Unfortunately no closer to solving the problem either.
+
+
+## Day 99: 2 March, 2019
+
+**Today's Progress:** Got through problem from past two days and finished the functionality where if a '0' is clicked, all surrounding numbers are clicked (and all joining 0s get the same treatment)
+
+**Thoughts:** YAY turns out all I had to do was change the data type to a List and I could use the .IndexOf() method. I also cut out a lot of code by creating another function that returns a list of indexes that surround the current button (based on the index of the button and therefore its position on the board). Feeling very accomplished today, hope to finish the program tomorrow?
