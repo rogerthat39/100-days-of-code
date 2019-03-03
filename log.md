@@ -714,3 +714,10 @@
 **Today's Progress:** Got through problem from past two days and finished the functionality where if a '0' is clicked, all surrounding numbers are clicked (and all joining 0s get the same treatment)
 
 **Thoughts:** YAY turns out all I had to do was change the data type to a List and I could use the .IndexOf() method. I also cut out a lot of code by creating another function that returns a list of indexes that surround the current button (based on the index of the button and therefore its position on the board). Feeling very accomplished today, hope to finish the program tomorrow?
+
+
+## Day 100: 3 March, 2019
+
+**Today's Progress:** Created a win condition for the minesweeper program, made a flag icon that appears when right-clicking a button, and played a few rounds to test it.
+
+**Thoughts:** I made it to the 100th day! I'm proud of myself for sticking with it even on the days I wanted to give up. And I have a few tangible accomplishments in the form of FreeCodeCamp certificates and working programs that can go in my portfolio. With any luck I'll be able to keep this habit going and make coding a regular activity (though maybe not every day!)
